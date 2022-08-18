@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanpabloprado
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Salsa 🕺
-- 💞️ I’m looking to collaborate on Java, Spring, Cloud and related technologies
+- 💞️ I’m looking to collaborate on Java, Micronaut, Spring, Cloud and related technologies
 - 📫 How to reach me: [Twitter(@juanpablosprado)](https://twitter.com/juanpablosprado)
 
 <!---
