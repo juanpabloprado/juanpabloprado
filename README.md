@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanpabloprado
 - 👀 I’m interested in Continuous Delivery and Kotlin
-- 🌱 I’m currently learning Salsa 🕺
+- 🌱 I’m currently learning Scala psst. I meant Salsa 🕺
 - 👯 I’m looking to collaborate on Java, Micronaut, Spring, Cloud and related technologies
 - 📫 How to reach me: [Twitter(@juanpablosprado)](https://twitter.com/juanpablosprado)
 
