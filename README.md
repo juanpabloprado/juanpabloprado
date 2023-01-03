@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developer experience, Continuous Delivery and Kotlin
 - 🌱 I’m currently learning Scala psst. I meant Salsa 🕺
 - 👯 I’m looking to collaborate on Java, Micronaut, Spring, Cloud and related technologies
-- 📫 How to reach me: [Twitter(@juanpablosprado)](https://twitter.com/juanpablosprado)
+- 📫 How to reach me: [Mastodon(@juanpablo)](https://mastodon.online/@juanpablo)
 
 <!---
 juanpabloprado/juanpabloprado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
