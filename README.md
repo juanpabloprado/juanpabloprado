@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanpabloprado
-- 👀 I’m interested in Developer experience, Continuous Delivery and Kotlin
+- 👀 I’m interested in Developer experience and Continuous Delivery
 - 🌱 I’m currently learning Scala psst. I meant Salsa 🕺
 - 👯 I’m looking to collaborate on Java, Micronaut, Spring, Cloud and related technologies
 - 📫 How to reach me: [Mastodon(@juanpablo)](https://mastodon.online/@juanpablo)
